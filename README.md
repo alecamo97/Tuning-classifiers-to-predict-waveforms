@@ -9,9 +9,9 @@ Additionally, artificial imbalance was introduced into the dataset to simulate r
 
 ## Files
 This project contains three files:
-- Report.pdf: A LaTeX-generated report detailing the project methodology and findings.
-- Unified code.ipynb: Jupyter Notebook containing the project's code implementation.
-- Waveform.data: Datase used for the project.
+- **Report.pdf**: A LaTeX-generated report detailing the project methodology and findings.
+- **Unified code.ipynb**: Jupyter Notebook containing the project's code implementation.
+- **Waveform.data**: Datase used for the project.
 
 ## Authors
 - Alejandro Carvajal
